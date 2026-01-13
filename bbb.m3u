@@ -1,21 +1,55 @@
 #EXTM3U
+
+####################
+# BBB
+####################
+
 #EXTINF:-1 tvg-name="BBB Câmera 1" group-title="BBB",BBB Câmera 1
-https://d1muf25xa01so8hp13.s27-usa-cloudfront-net.online/token/05c5ed3281fe93bf79cc9d601865bc88/bbb1.m3u8
+https://d1muf25xa01so8hp14.s27-usa-cloudfront-net.online/token/05c5ed3281fe93bf79cc9d601865bc88/bbb1.m3u8
+
 #EXTINF:-1 tvg-name="BBB Câmera 2" group-title="BBB",BBB Câmera 2
-https://d1muf25xa01so8hp13.s27-usa-cloudfront-net.online/token/2ba301316da3334af5b0286d53d35957/bbb2.m3u8
+https://d1muf25xa01so8hp14.s27-usa-cloudfront-net.online/token/2ba301316da3334af5b0286d53d35957/bbb2.m3u8
+
 #EXTINF:-1 tvg-name="BBB Câmera 3" group-title="BBB",BBB Câmera 3
-https://d1muf25xa01so8hp13.s27-usa-cloudfront-net.online/token/424e02251d7eb8c6468484ecb55a2b16/bbb3.m3u8
+https://d1muf25xa01so8hp14.s27-usa-cloudfront-net.online/token/424e02251d7eb8c6468484ecb55a2b16/bbb3.m3u8
+
 #EXTINF:-1 tvg-name="BBB Câmera 4" group-title="BBB",BBB Câmera 4
-https://d1muf25xa01so8hp13.s27-usa-cloudfront-net.online/token/a1c5931505d8d90943ecfa527825d6ac/bbb4.m3u8
+https://d1muf25xa01so8hp14.s27-usa-cloudfront-net.online/token/a1c5931505d8d90943ecfa527825d6ac/bbb4.m3u8
+
 #EXTINF:-1 tvg-name="BBB Câmera 5" group-title="BBB",BBB Câmera 5
-https://d1muf25xa01so8hp13.s27-usa-cloudfront-net.online/token/3bc206adb3a447c9477d5fc20f22065c/bbb5.m3u8
+https://d1muf25xa01so8hp14.s27-usa-cloudfront-net.online/token/3bc206adb3a447c9477d5fc20f22065c/bbb5.m3u8
+
 #EXTINF:-1 tvg-name="BBB Câmera 6" group-title="BBB",BBB Câmera 6
-https://d1muf25xa01so8hp13.s27-usa-cloudfront-net.online/token/a82113e9251430c1522b809b77248900/bbb6.m3u8
+https://d1muf25xa01so8hp14.s27-usa-cloudfront-net.online/token/a82113e9251430c1522b809b77248900/bbb6.m3u8
+
 #EXTINF:-1 tvg-name="BBB Câmera 7" group-title="BBB",BBB Câmera 7
-https://d1muf25xa01so8hp13.s27-usa-cloudfront-net.online/token/b8c48a7d2eae7de6a38fbb4fea82b8b1/bbb7.m3u8
-#EXTINF:-1 tvg-name="BBB Câmera 8" group-title="BBB",BBB Câmera 8
-https://d1muf25xa01so8hp13.s27-usa-cloudfront-net.online/token/88ba72a6787e7c45bf99788d55077ebb/bbb8.m3u8
-#EXTINF:-1 tvg-name="BBB Câmera 9" group-title="BBB",BBB Câmera 9
-https://d1muf25xa01so8hp13.s27-usa-cloudfront-net.online/token/bc844a72276fc1cf8781b1c38633ef5a/bbb9.m3u8
-#EXTINF:-1 tvg-name="BBB Mosaico" group-title="BBB",BBB Mosaico
-https://d1muf25xa01so8hp13.s27-usa-cloudfront-net.online/token/fbcb4608c8eeb172010cd07fabe1894e/bbbmosaico.m3u8
+https://d1muf25xa01so8hp14.s27-usa-cloudfront-net.online/token/b8c48a7d2eae7de6a38fbb4fea82b8b1/bbb7.m3u8
+
+
+####################
+# ESPORTES
+####################
+
+#EXTINF:-1 tvg-name="ESPN" group-title="Esportes",ESPN
+https://tvmaxplay.xyz/fygw2wMqspnZcUDIh7yfJs1ON43xKmT/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2" group-title="Esportes",ESPN 2
+https://tvmaxplay.xyz/QoXsf2o3spn2gyrDO1xkxwnQrS7/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 3" group-title="Esportes",ESPN 3
+https://tvmaxplay.xyz/OkIUpkDyr7OSspn3JoRu1XXdo0c/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 4" group-title="Esportes",ESPN 4
+https://tvmaxplay.xyz/ren68K4TunPspn4Fz46PDjqipVJIqVL/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 5" group-title="Esportes",ESPN 5
+https://tvmaxplay.xyz/zxoiGFfWd3hjspn5OkYRBMeyyMDHqJ38/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="SporTV" group-title="Esportes",SporTV
+https://tvmaxplay.xyz/OB1rcavXsprtviOqkVCJTBJahe/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="SporTV 2" group-title="Esportes",SporTV 2
+https://tvmaxplay.xyz/c1xLJjBictx5sprtv2gY3c5wnRpQ/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="SporTV 3" group-title="Esportes",SporTV 3
+https://tvmaxplay.xyz/Z3ANVj77p3kZsprtv3l4AblV7vY7AZQ/tracks-v1a1/mono.ts.m3u8
